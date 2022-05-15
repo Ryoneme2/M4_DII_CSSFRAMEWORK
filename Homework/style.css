@@ -16,3 +16,13 @@
 p {
   margin: 0;
 }
+
+.height-100vh {
+  height: 100vh;
+}
+.w-100vw {
+  width: 100vw;
+}
+.color-lightblue {
+  background-color: #e0fbff;
+}

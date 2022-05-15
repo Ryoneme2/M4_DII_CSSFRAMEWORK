@@ -5,7 +5,9 @@
 .img-width-m {
   width: 18.75rem;
 }
-
+.fs-7 {
+  font-size: .75rem;
+}
 
 .img-height {
   height: 25rem;
@@ -13,6 +15,9 @@
 
 .img-width-150 {
   width: 8rem; /* 128px */ 
+}
+.img-width-1500 {
+  width: 6rem; /* 128px */ 
 }
 
 .hover-poiter:hover {

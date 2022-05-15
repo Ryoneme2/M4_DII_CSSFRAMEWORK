@@ -1,0 +1,18 @@
+.img-width {
+  width: 25rem;
+}
+
+.img-height {
+  height: 25rem;
+}
+
+.img-width-150 {
+  width: 8rem; /* 128px */ 
+}
+
+.hover-poiter:hover {
+  cursor: pointer;
+}
+p {
+  margin: 0;
+}

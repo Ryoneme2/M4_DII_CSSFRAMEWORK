@@ -45,12 +45,19 @@ body {
     }
 }
 
-@media screen and (min-width: 766px) and (max-width:991px) {
+@media screen and (min-width: 766px) and (max-width:1024px) {
     .banner {
         background-color: brown;
     }
     .content,
     .sideboard {
         width: 100%
+    };
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1200px) {
+    .content,
+    .sideboard {
+        width: 50%
     };
 }
